@@ -743,6 +743,12 @@ input, textarea {
     margin-bottom: 2rem;
 }
 
+@media (max-width: 486px) {
+    .subtitulo {
+        font-size: 1rem;
+    }
+}
+
 .birra_info {
     display: flex;
     flex-direction: column;
